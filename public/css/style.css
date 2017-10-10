@@ -1,0 +1,75 @@
+body {
+	background: #f0f0f0;
+	font-family: 'Roboto', sans-serif;
+    color: #444444;
+    font-size: 18px;
+}
+.h2, h2 {
+    font-size: 26px;
+}
+.h3, h3 {
+    font-size: 22px;
+}
+
+.main{
+	padding: 20px 100px;	
+	/*font-size: 70px!important;*/
+}
+
+.userMeta{
+	background: #fff;
+	padding: 20px;	
+}
+
+.userDetails{
+	background: #fff;
+	margin-top: 20px;
+	padding: 20px;	
+}
+
+.profileImg{
+	float: left;
+	margin-bottom: 0;
+}
+.profileMeta{
+	float: right;
+}
+
+
+.profileMeta h1{
+	margin-top: 0px;
+}
+.profileMeta h3{
+    margin: 0;
+}
+
+.skills-list li{
+	margin: 3px 0px;
+}
+.userDetails h2{
+	font-weight: 600;
+	margin-top: 0px;	
+	padding-bottom: 8px;	
+	border-bottom: 1px solid #ccc;
+}
+.userDetails section{
+	margin-top: 20px;
+}
+
+.highlight-list li{
+	border-radius: 5px;
+	font-weight: 600;
+	margin: 3px 5px;
+	background: #ccc;
+}
+.interestItem{
+	list-style: none;
+    border-left: 20px solid #676767;
+    padding-left: 6px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+.insterest-list{
+    padding: 0px;
+    margin: 0px;	
+}

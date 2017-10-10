@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Deepak Mishra",
+    "label": "Full Stack Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "dpkkmishra@outlook.com",
+    "phone": "0731*******",
+    "mobile": "+91 9009781991",
+    "website": "http://dpkkmishra.me",
+    "summary": "Over the past 5 years I have continuously challenged myself with new languages, frameworks and methodologies. I’m always on the lookout for something (a company, a project, a team, networking) that believes they are movers and shakers, and believes they are going to change the world in some way.",
+    "location": {
+      "address": "Vijaynagar",
+      "postalCode": "452010",
+      "city": "Indore",
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    "github_url" : "https://github.com/dpkkmishra",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "dpkkmishra",
+        "url": "https://github.com/dpkkmishra"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vatsana Technologies Pvt. Ltd.",
+      "position": "Senior Full Stack Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2014-11-30",
+      "endDate": "2017-07-31",
+      "summary": "Under my internship, developed WittyFeed Windows Phone App. Under my work experience, developed WittyFeed, Viral9 and other Vatsana Tech Web Products.",
+      "highlights": ["WittyFeed", "Viral9"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "university": "RGPV",
+      "type": "Graduation",
+      "area": "Computer Science & Engineering",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "startYear": "2010",
+      "endDate": "",
+      "endYear": "2014",
+      "gpa": "",
+      "summary": "Completed my Bachelor of Engineering(BE) in the year 2014 under Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)."
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": {
+      "name": "Full Stack Development",
+      "level": "Master",
+      "details": [
+        {
+          "title": "Interface design and Layout",
+          "summary": "Proficient in designing web application interfaces with HTML/CSS/Javascript and Bootstrap responsive web design."
+        },
+        {
+          "title": "Web Technology and Frameworks",
+          "summary": "Efficient using HTML5-APIs, AJAX/JSONP, Jquery, AngularJS and other countless JS libs/frameworks et. al. Fanatic about writing standard-compliant, performance-optimized, bandwidth-friendly markups. Capable of making/managing high-traffic websites on CodeIgniter, a powerful PHP framework. Also experience in creating RESTful API in CodeIgniter. Can throw libraries/dependencies off the window & hand-code everything from scratch, if required."
+        },
+        {
+          "title": "Software/Web Development and Engineering",
+          "summary": "JavaScript ninja — skilled programmer of C/C++ and PHP. Have working knowledge on Python, LUA, Node, JAVA and .NET. Can handle any modern programming language with moderate efficiency. Preferred revision control system is Git. Can work on Object-Relational (MySQL) database systems and having knowledge of Redis, in-memory data structure store."
+        },
+        {
+          "title": "Servers and Engineering",
+          "summary": "Familiar with some Amazon Web Services(AWS) product - EC2, S3, RDS, ELB, Route53, ElasticCache and can build scalable, high performance websites with these broad set of services geared for modern web applications. Experience in handling servers (Amazon EC2) using both Nginx and Apache. Have experience setting-up & administrating EC2 instance and Git servers."
+        }
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "Typescript",
+        "AngularJS",
+        "React",        
+        "Bootstrap",
+        "Semantic UI",
+        "Material css",
+        "Node",
+        "php",
+        "MySQL",
+        "Git",
+        "CodeIgniter",
+        "Laravel",
+        "MEAN",
+        "Django",
+        "Lua",
+        "Redis",
+        "MongoDB",
+        "Java",
+        "Amazon Web Services",
+        "DevOps",
+        "Jira"
+      ]
+  },
+  "languages": [
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],  
+  "interests": [
+    {
+      "name": "Programming"
+    },
+    {
+      "name": "Reading Books"
+    },
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "Listening to music"
+    },
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Sketching"
+    }
+  ],
+  "references": []
+}
